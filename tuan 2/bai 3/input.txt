@@ -1,0 +1,6 @@
+5
+1 tri 2 giamdoc 5 6 2000
+2 nam 5 chutich 3 2 1998
+3 nu  3 nhanvien 2 3 2000
+4 yen 4 nhavien  2 4 1998
+5 trung 5 nhanvien 3 4 1996
